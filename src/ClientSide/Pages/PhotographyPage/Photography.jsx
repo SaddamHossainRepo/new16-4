@@ -8,6 +8,8 @@ import instra from "/instra.png";
 import youtube from "/youtube.png"
 import { SlMenu } from "react-icons/sl";
 import { RxCross1 } from "react-icons/rx";
+import Zoom from 'react-medium-image-zoom'
+import 'react-medium-image-zoom/dist/styles.css'
 
 import { Fade } from 'react-awesome-reveal';
 import { useState } from "react";
@@ -383,22 +385,30 @@ const Photography = () => {
                     </div>
                     <div className="ourWorkParent">
                         <div>
+                            <Zoom>
                             <img className="WorkImgOne" src="/cardOne.png" alt="" />
+                            </Zoom>
                             <h4 className="ourWorksHead">Awad For Puntland</h4>
                             <p className="ourWorksPara">Your brand is more than just your logo. It's the overall image and reputation of your business or organization.</p>
                         </div>
                         <div>
+                            <Zoom>
                             <img className="WorkImgTwo" src="/cardTwo.jpeg" alt="" />
+                            </Zoom>
                             <h4 className="ourWorksHead">Jannah Fitwear</h4>
                             <p>Your brand is more than just your logo. It's the overall image and reputation of your business or organization.</p>
                         </div>
                         <div>
+                            <Zoom>
                             <img className="WorkImgThree" src="/cardThree.png" alt="" />
+                            </Zoom>
                             <h4 className="ourWorksHead">Friday Fashion</h4>
                             <p>Your brand is more than just your logo. It's the overall image and reputation of your business or organization.</p>
                         </div>
                         <div>
+                            <Zoom>
                             <img className="WorkImgOne" src="/cardFour.png" alt="" />
+                            </Zoom>
                             <h4 className="ourWorksHead">Puntland</h4>
                             <p>Your brand is more than just your logo. It's the overall image and reputation of your business or organization.</p>
                         </div>
