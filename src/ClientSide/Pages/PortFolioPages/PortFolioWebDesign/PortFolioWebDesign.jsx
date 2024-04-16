@@ -250,7 +250,7 @@ const PortFolioWebDesign = () => {
                                             <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                                 <div >
                                                     <div className="PortraitImgOne ">
-                                                        <img className="h-full w-full" src="/Rondo.png" alt="" />
+                                                        <img className="h-full w-full" src="/dignity.jpg" alt="" />
                                                     </div>
                                                     <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                         <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -270,7 +270,7 @@ const PortFolioWebDesign = () => {
                                             <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                                 <div >
                                                     <div className="PortraitImgOne ">
-                                                        <img className="h-full w-full" src="/radiant.png" alt="" />
+                                                        <img className="h-full w-full" src="/integrity.jpg" alt="" />
                                                     </div>
                                                     <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                         <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -290,7 +290,7 @@ const PortFolioWebDesign = () => {
                                             <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                                 <div >
                                                     <div className="PortraitImgOne ">
-                                                        <img className="h-full w-full" src="/cawyes.png" alt="" />
+                                                        <img className="h-full w-full" src="/goshen.jpg" alt="" />
                                                     </div>
                                                     <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                         <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -322,7 +322,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/Rondo.png" alt="" />
+                                                    <img className="h-full w-full" src="/dignity.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -342,7 +342,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/radiant.png" alt="" />
+                                                    <img className="h-full w-full" src="/integrity.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -361,7 +361,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/cawyes.png" alt="" />
+                                                    <img className="h-full w-full" src="/goshen.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -410,7 +410,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/Healinghome.png" alt="" />
+                                                    <img className="h-full w-full" src="/almasi.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -432,7 +432,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/capitolcafe.png" alt="" />
+                                                    <img className="h-full w-full" src="/cawes.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -452,7 +452,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/goshen.png" alt="" />
+                                                    <img className="h-full w-full" src="/capitol.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -484,7 +484,7 @@ const PortFolioWebDesign = () => {
                                     <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                         <div >
                                             <div className="PortraitImgOne ">
-                                                <img className="h-full w-full" src="/Healinghome.png" alt="" />
+                                                <img className="h-full w-full" src="/almasi.jpg" alt="" />
                                             </div>
                                             <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                 <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -504,7 +504,7 @@ const PortFolioWebDesign = () => {
                                     <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                         <div >
                                             <div className="PortraitImgOne ">
-                                                <img className="h-full w-full" src="/capitolcafe.png" alt="" />
+                                                <img className="h-full w-full" src="/cawes.jpg" alt="" />
                                             </div>
                                             <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                 <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -524,7 +524,7 @@ const PortFolioWebDesign = () => {
                                     <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                         <div >
                                             <div className="PortraitImgOne ">
-                                                <img className="h-full w-full" src="/goshen.png" alt="" />
+                                                <img className="h-full w-full" src="/capitol.jpg" alt="" />
                                             </div>
                                             <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                 <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -575,7 +575,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/almasi.png" alt="" />
+                                                    <img className="h-full w-full" src="/rondo.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -595,7 +595,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/integrity.png" alt="" />
+                                                    <img className="h-full w-full" src="/healing.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -615,7 +615,7 @@ const PortFolioWebDesign = () => {
                                         <div className=" border-[4px] rounded-[15px]  relative overflow-hidden">
                                             <div >
                                                 <div className="PortraitImgOne ">
-                                                    <img className="h-full w-full" src="/dignity.png" alt="" />
+                                                    <img className="h-full w-full" src="/radiant.jpg" alt="" />
                                                 </div>
                                                 <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                     <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -647,7 +647,7 @@ const PortFolioWebDesign = () => {
                                     <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                         <div >
                                             <div className="PortraitImgOne ">
-                                                <img className="h-full w-full" src="/almasi.png" alt="" />
+                                                <img className="h-full w-full" src="/rondo.jpg" alt="" />
                                             </div>
                                             <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                 <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -667,7 +667,7 @@ const PortFolioWebDesign = () => {
                                     <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                         <div >
                                             <div className="PortraitImgOne ">
-                                                <img className="h-full w-full" src="/integrity.png" alt="" />
+                                                <img className="h-full w-full" src="/healing.jpg" alt="" />
                                             </div>
                                             <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                 <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
@@ -686,7 +686,7 @@ const PortFolioWebDesign = () => {
                                     <div className=" border-[1px] rounded-[15px]  relative overflow-hidden">
                                         <div >
                                             <div className="PortraitImgOne ">
-                                                <img className="h-full w-full" src="/dignity.png" alt="" />
+                                                <img className="h-full w-full" src="/radiant.jpg" alt="" />
                                             </div>
                                             <div className="overlay absolute inset-0 flex justify-center items-center bg-black bg-opacity-70 transition-opacity duration-300 opacity-0 hover:opacity-100">
                                                 <div className="overlay-content text-white flex flex-col items-center justify-center  rounded-lg">
